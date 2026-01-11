@@ -2,6 +2,8 @@
 
 Exercise for BIOMEDDC 3A03 - Winter 2025. See the presentation [slides](/McArthur_BIOMEDDC 3A03_January2026.pptx).
 
+- [slides](McArthur_BIOMEDDC 3A03_January2026.pptx)
+
 ## Task 1 : Data Identification
 
 File [pmid-antibiotic-set-2.txt](pmid-antibiotic-set-2.txt) is a text file containing a list of PubMED identifier (PMID), totalling 227 papers published on AMR in the last 72 hours. Using ChatGPT, craft & validate prompts:
