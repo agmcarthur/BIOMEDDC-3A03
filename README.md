@@ -1,8 +1,6 @@
 # Biocuration, Bioinformatic, and Analytic Approaches to Surveillance of Antimicrobial Resistance Genes
 
-Exercise for BIOMEDDC 3A03 - Winter 2025. See the presentation [slides](/McArthur_BIOMEDDC 3A03_January2026.pptx).
-
-- [slides](McArthur_BIOMEDDC 3A03_January2026.pptx)
+Exercise for BIOMEDDC 3A03 - Winter 2025. See the presentation [slides](https://github.com/agmcarthur/BIOMEDDC-3A03/blob/main/McArthur_BIOMEDDC%203A03_January2026.pptx).
 
 ## Task 1 : Data Identification
 
